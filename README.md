@@ -1,2 +1,2 @@
 # Jenkin
-Jenkin Tools Used fro College Experiments
+Jenkin Tools Used for College Experiments
